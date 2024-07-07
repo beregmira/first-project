@@ -14,4 +14,5 @@ graph LR;
   staged -- "git commit" --> tracked/comitted;
 ```
 
+Добавлена новая фича из ветки feature/new-line
 
